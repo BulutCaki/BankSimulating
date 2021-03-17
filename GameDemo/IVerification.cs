@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP3
+namespace GameDemo
 {
-    interface ILoggerService
+    interface IVerification
     {
-        void Log();
+        void Edevlet();
     }
 }
